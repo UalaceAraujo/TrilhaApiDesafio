@@ -1,0 +1,15 @@
+@baseUrl = http://localhost:5271
+
+### 1. Obter todas as tarefas (Deve retornar [])
+GET {{baseUrl}}/Tarefa/ObterTodos
+
+### 2. Criar uma nova tarefa
+POST {{baseUrl}}/Tarefa
+Content-Type: application/json
+
+{
+  "titulo": "Estudar .NET 10",
+  "descricao": "Finalizar o desafio de API de Tarefas",
+  "data": "2026-11-01T10:00:00Z",
+  "status": 0
+}
