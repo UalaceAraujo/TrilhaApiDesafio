@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Gerenciamento de Tarefas (.NET)
 
 Projeto desenvolvido como parte do desafio de projeto da Digital Innovation One (DIO), focado na construção de um sistema de agendamento e gestão de tarefas utilizando C#, .NET e Entity Framework Core.
@@ -28,3 +29,6 @@ Siga os passos abaixo para configurar e rodar a API na sua máquina:
    ```bash
    git clone [https://github.com/UalaceAraujo/TrilhaApiDesafio.git](https://github.com/UalaceAraujo/TrilhaApiDesafio.git)
    cd TrilhaApiDesafio
+=======
+# TrilhaApiDesafio
+>>>>>>> f431595785a4af2301eb4fd62145a592f35acf54
